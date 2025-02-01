@@ -1,0 +1,56 @@
+/* Terms and Conditions */
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.TCmain
+{
+    height: 100px;
+    background-color: #F1F1F1;
+    /* border: 1px solid black; */
+    /* position: fixed; */
+}
+.TCsub
+{
+    letter-spacing: 1px;
+    font-family: Fantasy,Copperplate;
+    width: fit-content;
+    position: relative;
+    bottom: 65px;
+    left: 200px;
+}
+.HOME
+{
+    width: fit-content;
+    position: relative;
+    bottom: 90px;
+    left: 90%;
+    font-family: Fantasy,Copperplate;
+    
+}
+.HOME a{
+    color: black;
+}
+.body
+{
+    margin: 0;
+    padding: 0;
+}
+.main-content
+{
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.span-main
+{
+    font-size: 11pt;
+    font-family: "Calibri";
+    font-weight: bolder;
+}
+.span-content
+{
+    margin-left: 50px;
+}

@@ -1,0 +1,608 @@
+*body{
+    margin: 0%;
+    padding: 0%;
+}
+.main-home
+{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
+.main-head
+{
+    width: 4755.2;
+    height: 80px;
+    background:white;
+    padding-left: 534.05px;
+    padding-right: 534.05px;
+}
+.main-head-content
+{
+    border: 1px solid black;
+    height: 80px;
+}
+
+.Search_icon {
+    position: relative;
+    bottom: 38px;
+    right: 3px;
+    float: right;
+
+}
+
+.search_icon_div {
+    position: relative;
+    bottom: 38px;
+    left: 3px;
+
+}
+
+.nav_search {
+    width: 780px;
+    height: 60px;
+    position: relative;
+    top: 10px;
+    /* padding: 7px 10px 10px 0px; */
+    display: inline-block;
+    /* margin-left: 22%; */
+
+    width: 700px;
+}
+
+.nav_text {
+    width: 658px;
+    height: 39px;
+    padding: 0px 0px 0px 5px;
+    display: inline-block;
+    /* border-color: aquamarine; */
+}
+
+.nav_form {
+    padding: 8px 0px 5px 0px;
+    width: 700px;
+    /* display: inline-block; */
+}
+
+
+.sign_in {
+    /* position: relative; */
+    /* display: flex; */
+    height: 60px;
+    width: 100px;
+    bottom: 125px;
+    left: 1270px;
+    color:black;
+}
+
+
+.sign_in_span {
+    color: black;
+    font-family: arial, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    position: relative;
+    top: 0px;
+    left: 4px;
+}
+.nav_button {
+
+    width: 43px;
+    height: 43px;
+    display: flex;
+    /* color:color-mix(in oklch, #4f1919(45deg 50% 50%),oklch #ff3333(80%,25 50)); */
+    /* background-color: white; */
+    background: #fc8019;
+
+}
+
+.nav_button_div {
+    height: 43px;
+    display: inline-block;
+    position: absolute;
+    color:black;
+}
+.sign_in_anchor {
+    z-index: 2;
+    color: black;
+    padding: 0px 15px 0px 15px;
+
+}
+.sign_in_anchor1 {
+    z-index: 2;
+    position: relative;
+    top: 10px;
+    color: black;
+    padding: 0px 15px 0px 15px;
+
+}
+.i5 {
+
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    display:flex;
+    width: 100vw;
+    background-color:rgb(234, 234, 234);
+    height: 70px;
+    /* position: fixed; */
+    justify-content:space-between;
+    
+}
+.i5-1 {
+
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    display:flex;
+    width: 100vw;
+    background-color:rgb(234, 234, 234);
+    height: 0px;
+    /* position: fixed; */
+    justify-content:space-between;
+    
+}
+.s0 {
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 5px;
+}
+.s1 {
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 10px;
+}
+.header {
+    position: fixed;
+    z-index: 2;
+}
+.cart_div_sign_in {
+   
+    position: relative;
+    display: flex;
+    box-sizing: content-box;
+    height: 60px;
+    right: 20px;
+    
+}
+
+.anchor_cart {
+    z-index: 1;
+    color:black;
+    padding: 0px 15px 0px 15px;
+}
+.anchor_cart1 {
+    z-index: 1;
+    position: relative;
+    top:10px;
+    color:black;
+    padding: 0px 15px 0px 15px;
+}
+.cart_text {
+    font-family: arial, sans-serif;
+    color: black;
+    font-weight: 700;
+    font-size: 14px;
+}.cart_div_sign_in {
+   
+    position: relative;
+    display: flex;
+    box-sizing: content-box;
+    height: 60px;
+    right: 20px;
+    
+}
+
+.anchor_cart {
+    z-index: 1;
+    color: black;
+    padding: 0px 15px 0px 15px;
+}
+
+.cart_text {
+    font-family: arial, sans-serif;
+    color: black;
+    font-weight: 700;
+    font-size:17px;
+}
+.main_data{
+    position: relative;
+    top: 60px;
+    font-family: arial, sans-serif;
+    height: 350px;
+
+}
+.main_data_img{
+    /* position: relative;
+    bottom: 10px; */
+    width: 425px;
+    height: 252px;
+}
+.main_data_ul{
+    position: relative;
+    top:20px;
+    display: inline-flex;
+    list-style-type: none;
+}
+.main_data_h1{
+    /* width: 300px; */
+    position: relative;
+    top:20px;
+    left: 130px;
+    margin: 20px 0px 20px 0px;
+}
+.main_data_li{
+    margin: 0px 20px 0px 20px;
+}
+.main_data1_mind{
+    font-family: arial, sans-serif;
+    position: relative;
+    top: 50px;
+    width: 1150px;
+    left: 150px;
+
+}
+.main_data1_mind_h1{
+    /* width: 300px; */
+    margin: 20px 0px 20px 0px;
+}
+.main_data1_ul{
+    position: relative;
+    right: 30px;
+    list-style: none;
+    display: inline-flex;
+}
+.main_data1_img1{
+    width: 144px;
+    height: 180px;
+}
+.main_data1_li{
+ margin: 0px 10px 0px 10px;
+}
+.restaurant_chains_ul{
+    list-style: none;
+    display: inline-flex;
+}
+.restaurant_chains_li{
+    margin: 0px 20px 0px 00px;
+}
+.restaurant_chains_img{
+    width: 273px;
+    height: 182px;
+    border-radius: 20px;
+    object-fit: cover;
+
+
+}
+.restaurant_chains_div{
+    position: relative;
+    right: 100px;
+    width: 1350px;
+}
+.restaurant_chains_text{
+    /* user-select: none; */
+    text-decoration: none;
+    /* align-items: end; */
+    position: relative;
+    top:10px;
+    left: 80px;
+    color: rgb(121, 118, 118);
+    font-weight:700 ;
+    font-size: 20px;
+}
+.restaurant_chains_text1{
+    position: relative;
+    top:10px;
+    left: 120px;
+    color: rgb(121, 118, 118);
+    font-weight:700 ;
+    font-size: 20px;
+}
+.online-delivery-h1
+{
+    position: relative;
+    top:50px;
+    left: 150px;
+    margin-bottom:20px ;
+}
+.online-food-delivery
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(320px,auto));
+}
+.online-food-delivery-data1-img{
+    width: 255px;
+    height: 150px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    border-radius: 30px;
+    object-fit: cover;
+    
+}
+.online-food-delivery-data1{
+    position: relative;
+    top: 50px;
+    /* background-color: aliceblue; */
+    margin: 10px 10px 10px 10px;
+    border: 1px solid;
+    border-color: rgb(238, 232, 232);
+}
+.online-food-delivery-data1-text{
+    width: 250px;
+    height: 86px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: rgb(121, 118, 118);
+    font-weight:700 ;
+    font-size: 20px;
+}
+.online-food-delivery-data1-a{
+    text-decoration: none;
+}
+.user-span{
+    position: relative;
+    top: 10px;
+}
+.green-star-img1
+{
+    position: relative;
+    right: 110px;
+    top: 30px;
+}
+.green-star-img2
+{
+    position: relative;
+    right: 135px;
+    top: 30px;
+}
+.green-star-img3
+{
+    position: relative;
+    right: 115px;
+    top: 30px;
+}
+.green-star-img4
+{
+    position: relative;
+    right: 189px;
+    top: 30px;
+}
+.green-star-img5
+{
+    position: relative;
+    right: 110px;
+    top: 30px;
+}
+.green-star-img6
+{
+    position: relative;
+    right: -25px;
+    top: 5px;
+}
+.green-star-img7
+{
+    position: relative;
+    right: 155px;
+    top: 30px;
+}
+.green-star-img8
+{
+    position: relative;
+    right: 90px;
+    top: 30px;
+}
+.green-star-content
+{
+    position: relative;
+    bottom: 23px;
+    left: 50px;
+}
+.green-star-content-1
+{
+    position: relative;
+    bottom: 47px;
+    left: 50px;
+}
+.green-star-sub-content
+{
+    position: relative;
+    bottom: 45px;
+    left: 25px;
+    font-family: "Basis Grotesque Pro";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 19px;
+}
+.green-star-sub-content-1
+{
+    position: relative;
+    bottom: 65px;
+    left: 25px;
+    font-family: "Basis Grotesque Pro";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 19px;
+}
+.online-food-delivery-data1-span1
+{
+    font-family: "Basis Grotesque Pro";
+    color: black;
+}
+.app-stores-main-div
+{
+    /* border: 1px solid black; */
+    height: 104px;
+    position: relative;
+    top:50px;
+    background-color: rgb(240, 240, 245);
+}
+.app-stores-sub-div
+{
+    height: 104px;
+    width: fit-content;
+    position: relative;
+    bottom: 87px;
+    left: 50%;
+}
+.app-stores-download-div
+{
+    width: 450px;
+    padding-top: 25px;
+    position: relative;
+    left: 200px;
+    font-family: "Basis Grotesque Pro";
+    color: rgba(2, 6, 12, 0.75);;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 32px;
+}
+.app-stores-contain-logo-div
+{
+    width: fit-content;
+    padding-top: 20px;
+   
+}
+.main-footer
+{
+    height: 459px;
+    position: relative;
+    top:50px;
+    background-color: #02060C;
+}
+.footer-logo{
+    width: 190.2px;
+    height: 313px;
+    /* border: 1px white solid; */
+    padding: 70px 0px 0px 0px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+.footer-logo-content
+{
+    font-family: "Basis Grotesque Pro";
+    font-size: 16px;
+    font-weight: 200px;
+    line-height: 19px;
+    color: rgba(255, 255, 255, 0.6);;
+}
+.company
+{
+    height: 384px;
+    width: 190.2px;
+    /* border:1px solid white; */
+    position: absolute;
+    bottom: 73px;
+    left: 500px;
+}
+.company ul
+{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.main-list
+{
+    padding-top: 80px;
+}
+.list-heading
+{
+    color: white;
+    font-family: "Basis Grotesque Pro";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.sub-list
+{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.sub-list a
+{
+    text-decoration: none;
+}
+.sub-list2
+{
+    /* padding-top: 20px; */
+    padding-bottom: 10px;
+}
+
+.sub-list2 a{
+    text-decoration: none;
+}
+.list-sub-content
+{
+    color: rgba(255, 255, 255, 0.6);
+    font-family: "Basis Grotesque Pro";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 19px;
+}
+.Contact
+{
+    height: 384px;
+    width: 190.2px;
+    /* border:1px solid white; */
+    position: absolute;
+    bottom: 73px;
+    left:750px;
+}
+.Contact ul
+{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.main-list1
+{
+    padding-top: 50px;
+}
+.deliver
+{
+    height: 384px;
+    width: 190.2px;
+    /* border:1px solid white; */
+    position: absolute;
+    bottom: 73px;
+    left: 1050px;
+}
+.deliver ul
+{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+/* ----Banglore--- */
+.order-food-online-main
+{
+    position: relative;
+    top: 70px;
+    height: 300px;
+    background: linear-gradient(0deg, rgb(201, 188, 244) 0%, rgb(255, 255, 255) 95.83%); 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.order-food-online-main-text
+{
+    position: relative;
+    top: 80px;
+    left: 200px;
+    width: 300px;
+    height: 144px;
+    font-size: 20px;
+    line-height: 48px;
+    letter-spacing: -0.43px;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(2, 6, 12, 0.75);
+    font-weight: 400;
+}
+.order-food-online-main-img
+{
+    width: fit-content;
+    position: absolute;
+    top:9px;
+    left: 800px;
+}

@@ -1,0 +1,103 @@
+/* Terms and Conditions */
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.TCmain
+{
+    height: 100px;
+    background-color: #F1F1F1;
+    /* border: 1px solid black; */
+    /* position: fixed; */
+}
+.TCsub
+{
+    letter-spacing: 1px;
+    font-family: Fantasy,Copperplate;
+    width: fit-content;
+    position: relative;
+    bottom: 65px;
+    left: 200px;
+}
+.HOME
+{
+    width: fit-content;
+    position: relative;
+    bottom: 90px;
+    left: 90%;
+    font-family: Fantasy,Copperplate;
+    
+}
+.HOME a{
+    color: black;
+}
+.body
+{
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+    height: 100vh;
+}
+.main-img
+{
+    /* width: fit-content; */
+    height: 400px;
+    padding-right: 300px; 
+    padding-left: 300px;
+    position: relative;
+    top:80px;
+}
+.center
+{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+.main-img-details
+{
+    padding-top: 10px;
+    width: fit-content;
+    position: relative;
+    top: 60px;
+    right: -625px;
+}
+.main-img-details-content1
+{
+    margin-top: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #535665;
+}
+.main-img-details-content2
+{
+    width: fit-content;
+    color: #7e808c;
+    margin-top: 8px;;
+    position: relative;
+    top: 60px;
+    right: -560px;
+}
+.main-img-details-content2-button
+{
+    margin-top: 50px;
+}
+.main-img-details-content2-button button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:90%;
+    height: 50px;
+    background-color: #fc8019;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    font-family:sans-serif;
+    
+}
+.a1
+{
+    text-decoration: none;
+}
